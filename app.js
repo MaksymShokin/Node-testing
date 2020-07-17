@@ -70,3 +70,4 @@ mongoose
 
 
 // npm install --save-dev mocha chai
+// npm install --save sinon
